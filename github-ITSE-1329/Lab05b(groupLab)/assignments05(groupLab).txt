@@ -1,0 +1,23 @@
+Some of the teams might lose a member so the slack must be taken up by the surviving members. If the survivors complain that someone did not work, their grade will be docked accordingly.
+
+In the comments in the program add the following lines of code
+
+// program name: xxxxxxxxx
+// Group x  - put all names in group here (put your group name in ;)
+// programer: name of coder for this program
+ 
+
+Remember if the program is not done then the survivors will also be docked.
+
+1. (add) Create a program that will output the sum of all the odd 
+numbers between 1 and 99 inclusive. 
+
+2. (cash) Allow the user to key in any number of item prices for items 
+purchased in a discount store. Display the grand total amount of all 
+items including an addition of 8% tax on all items. 
+
+3. (bunny) Allow the user to input any number of rabbit weights in 
+pounds into the program. Output the average of all rabbit weights, the 
+largest rabbit weight, and the total number of rabbits.
+
+NOTE: The group leader should state who was the team leader and the names of the others in the group using the assignment comments when they submit the assignment.

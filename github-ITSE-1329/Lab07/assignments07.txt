@@ -1,0 +1,32 @@
+It is best to keep these programs simple ;)
+
+Do not forget the cstdlib if you use the exit command.    #include <cstdlib>
+
+1. (tempfile) Create a program to create a file (write) containing a temperature  conversion chart for 0 to 100 degrees Celsius at 10 degree intervals and the corresponding Fahrenheit temperature. 
+
+
+2. (payroll) Write a program that will read the payroll file. It should output the name and paycheck amount to the console. Also output the total pay of all employees to a data file "totals.dat". The input file contains the name followed by hourly wage followed by hours worked. Download the data file from this link payroll.datPreview the documentView in a new window.
+
+"Bones_Bob"
+10.50
+40
+"Smith_Sally"
+11.25
+40
+"Toll_Tom"
+8.10
+35
+"Anderson_Ann"
+7.25
+20
+"Carlson_Carl"
+9.75
+22
+
+3. (Students) Create a program that will read students and grades from a file. The file contains first name, last name, and five grades. For each input record, display on the console the last name followed by a comma followed by the first name followed by the student's average grade. After all records are processed display the highest overall grade average to the console. Download the input data file from this link students.txtPreview the documentView in a new window.
+
+Einstein Albert 80 95 85.5 80 95
+Franklin Ben 70 75.5 80 82 90
+Edison Tom 70 80 75.5 60 40
+Tesla Nick 75 75.5 80 90 80
+Dijkstra Ed 92 80 70.5 60 85

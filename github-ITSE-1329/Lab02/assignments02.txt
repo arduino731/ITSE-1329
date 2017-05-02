@@ -1,0 +1,26 @@
+Upload and submit a program you create for each of the following problem statements. Use the name in parentheses for the filename. Please note that as you read the material and work the labs any new concept should be utilized in the labs that follow. I have mentioned a few in each of the problems below. Make sure you make use of these concepts from now on.
+
+Please note that if you see the system pause command in any of the online lectures you MUST include the cstdlib
+
+#include <cstdlib>
+
+I will take points off if I have to enter it. BTW it is not needed any more with the new compiler.
+
+1. (dollar.cpp) The program will accept an input value in American dollars and output the corresponding value for Canadian dollars. Use the following formula: CanadianDollars = AmericanDollars * 1.27. For this lab make sure you look at page 41 of the Farrell on how to name variables. May I recommend camelCasing? In any event once you settle on a convention do not deviate from it in that program. In addition page 46 is important because it discusses magic numbers which I HATE.
+
+2. (tip.cpp) Write a program that computes a 15% tip when the price of a meal is input by the user. [Hint: The tip is computed by multiplying the price of the meal by 0.15]. Don't forget what you learned in the first program ;). By the way you should now be using comments. On page 22-23 of the Smith book the program uses comments to describe all types of information.
+
+3. (tempconv.cpp) Write a program that converts a temperature input in degrees Celsius (C) into degrees Fahrenheit (F) using the formula:
+     F= (9/5) C + 32.
+
+In the problem above what are you going to do about magic numbers and the formula? You could create a bunch of variable names but that might be worse that just using the magic numbers. Why not just put something above the formula.
+
+// the calculation below converts Celsius to Fahrenheit.
+
+F= (9/5) C + 32
+
+That way silly variables do not need to be used to avoid a magic number. Oh and by the way the formula above violates several conventions in programming. Read pages 12-15 in the Smith book.  I take off points for bad variable names.
+
+A few more pieces of info that may help you generate a better program. On page 22-23 the actual program for #3 is "sort of" already complete ;). Answer this question: Why did the program have (5./9.) in the formula rather than 5/9. You can get some help with this by actually changing your program and seeing what happens to the answers. Place your answer to this problem in the text entry for the lab.
+
+And finally when creating programs you must generate data that you can easily verify if your program works correctly. For instance use -40, 0 and 100 the answers should be -40, 32 and 212. If you don't get those answers then the program is not correct.

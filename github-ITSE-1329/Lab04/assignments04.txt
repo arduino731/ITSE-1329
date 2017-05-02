@@ -1,0 +1,25 @@
+1. (MINMAX) Accept 2 numbers as input. Display which number is larger and which is smaller.
+
+2. (FLOOR2) Given the appropriate dimensions (ft) to a room and a cost of flooring per square foot, output the total cost of the flooring. The room can be rectangular or circular. (The program should handle either case). Hint for circle click-here (Links to an external site.).
+
+3. (MENU2) Create a menu with 5 line items. After you display the menu ask the user which item they selected and then display that menu item name. You must use one big if-else statement.
+
+--------------------------------------------------
+
+      Lab 4 (Part 3)
+  
+   1. This is an item
+   2. This is an item
+   3. This is an item
+   4. This is an item
+   5. This is an item
+
+Choose an item from the above list:  xx
+
+You chose xx  thanks!
+
+-------------------------------------------------------
+
+ 
+
+where xx is the number you chose. If the number is not on your menu display an error message.

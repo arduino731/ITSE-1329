@@ -1,0 +1,21 @@
+Starting in these programs I want you to output your name and the lab number and name on the console (output). Don't stop putting your name in the documentation... ADD this at the top of the output.
+
+                          Your name           Lab 3  age2030
+
+Enter your current age: 25
+Enter the current year : 2014 
+
+You will be 41 in 2030
+
+The bold text is the user input.
+
+ 
+
+Create a program for each of the following (Submit the .cpp source code file for each):
+
+   
+(age2030) Get the user to input their current age and the current year. Calculate and output what their age will be in the year 2030.
+   
+(pay) Input the number of hours worked for a week, and the hourly pay rate. Output the total pay.
+   
+(score) Input the number of questions on an exam, the number of correct questions, and a student first name. Output the name and the grade for the exam.

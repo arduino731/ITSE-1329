@@ -1,0 +1,41 @@
+Please add the following to your code. (You will do this for ALL programs from now on!).
+
+Add an output line to the program that prints your name and the Lab "name" . (Hint use the cout statement)
+An example of the form of the output would be
+
+            John Smith       Lab 5-1 (sum)
+
+ 
+
+In addition the first line of the program source code will have your name, the second, the course number and your section, the third the file name, the fourth, the date written.
+
+  // Fred Smith
+  // ITSE 1329-00x         (replace the x with your section number)
+  // Filename: Lab5-1.cpp   (change the lab number for each separate lab) 
+  // Written:  Aug 4, 1999
+ 
+
+1. (tempchart) Create a program to display a temperature conversion chart for 0 to 100 degrees Celsius at 10 degree intervals and the corresponding Fahrenheit temperature. (FOR LOOP please)
+
+2. (penny) Write a program to calculate a persons salary calculated in this manner. The person will be paid 1 penny on the first day. The pay will be doubled for every day worked. For example, pay will be doubled to 2 pennies on the second day. The program should accept the number of days worked as input and output the total pay in dollars with two decimal places.
+
+3. (Menu3) Change the previous menu program (lab 4 part 3) so that if a user enters an invalid number the program will display an error message and redisplay the menu. In addition add a new entry at the end that will exit. The program will continue in the loop until the exit number is chosen.
+
+--------------------------------------------------
+
+      Lab 5 (Part 3)
+  
+1. This is an item
+2. This is an item
+3. This is an item
+4. This is an item
+5. This is an item
+6. Exit
+
+Choose an item from the above list:  xx
+
+You chose xx  thanks!
+
+-------------------------------------------------------
+
+where xx is the number you chose.

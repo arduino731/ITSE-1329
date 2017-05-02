@@ -1,0 +1,33 @@
+You will be using techniques found in Chapter 6 of the Farrell book dealing with arrays (there is no other way to do these labs). Make sure you understand the labs before you start. If you have questions please let me know ASAP. If your question is of value to the class I will copy them.  Please understand that I have been teach this course for 14 years. I know what you can do verses what others will do. Do not make the mistake of trying to slip one by. I have been ignoring the "helping hands" to this point. Help is OK (your former group could be of service if you are still on speaking terms ;) but doing the coding is not, that is your job.
+
+ 
+
+1. (lastfirst) Write a program that will accept 10 numbers as input.  When all the numbers have been input, output the list of numbers in reverse order. Hint: This uses a numeric array.
+
+
+2. (gcount) Create a program that will accept any number of grades for an exam. The grades will be input as 4 for an A, 3 for a B, 2 for a C, 1 for a D, and 0 for an F. If the user enters an invalid number, reject it and ask again. After all grades have been entered, allow the user to enter -1 to exit. Output the number of grades in each category by using a loop and a parallel array (for the grade names). Do not use the switch command in C++, you are practicing the nested if statement.
+
+
+3. (menu4) Create a menu that will display a series of choices that can be picked from. You will choose 4 of your best program (not the group labs) and extract the working part of the lab and place it in this lab. Make sure to move the "Housekeeping" parts of the code to the top of this new program, don't just plop everything into the "IF" statement. You must place the menu in a loop in case the user (me) wants to try all of the parts (I will) and add 2 other parts. The first one is a fifth choice of exiting the second is to only allow the use to chose 1-5 or provide an error message.
+
+It is important that you use a nested loop that surrounds all of the code. You must also use a nested loop (do not use a switch) to select which number was picked. In that part of the code place the working code from each of the programs you chose but place all of the declarations together at the top of the program. You can only use one from each lab and nothing from labs 1 and 2. (Yes you must use one of the programs from this one). Here is a mock up of what I would like to see as the menu output.
+
+---------------------------------------------------------------
+
+The Menu Program
+
+Pick one of the choices below or "5" to exit.
+
+1. Your pick from lab 3
+2. Your pick from lab 4
+3. Your pick from lab 5
+4. Your pick from lab 6
+5. Exit this program
+
+Selection: x
+
+-------------------------------------------------------------------
+
+x will be what ever number you choose.
+
+Stay in the loop until 5 is selected from the menu and produce an error message if an invalid number is input.
